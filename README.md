@@ -5,7 +5,7 @@ Manage users from an LDAP source: Search for disabled AD/LDAP user accounts, the
 * Github
 
 ## Getting Started
-./luser scan
+`./luser scan`
 
 ## Installing 
 
