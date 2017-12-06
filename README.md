@@ -1,6 +1,6 @@
-# ops-lusers
+# ops-alumni-scanner
 
-Manage users from an LDAP source: Search for disabled AD/LDAP user accounts, then look for same/similar accounts in...
+Formerly `luser`, It manages users from an LDAP source: Search for disabled AD/LDAP user accounts, then look for same/similar accounts in...
 * Slack
 * Github
 
