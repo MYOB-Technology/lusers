@@ -1,6 +1,16 @@
-# manage users from an LDAP source
+# ops-lusers
 
-Search for disabled AD?LDAP user accounts, then look for same/similar accounts in...
-* slack
+Manage users from an LDAP source: Search for disabled AD/LDAP user accounts, then look for same/similar accounts in...
+* Slack
 * Github
 
+## Getting Started
+./luser scan
+
+## Installing 
+
+## CI/CD setup
+
+## Custodian
+
+The Platform Enablement tribe #tr-platform-enable
